@@ -1,0 +1,2272 @@
+{
+  "campus": [
+    {
+      "nome": "São Caetano do Sul",
+      "salas": [
+        {
+          "id": "A.01",
+          "bloco": "A",
+          "tipo": "Sala de entidade",
+          "descricao": "1961 - Entidade de design",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "A.02",
+          "bloco": "A",
+          "tipo": "Laboratório",
+          "descricao": "Laboratório de usinagem",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": ["usinagem", "ferramentas", "máquinas CNC", "tornos", "fresadoras", "furadeiras"]
+        },
+        {
+          "id": "A.03",
+          "bloco": "A",
+          "tipo": "Sala de entidade",
+          "descricao": "NSPI - Núcleo de Simulação e Prototipagem Industrial",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "A.04",
+          "bloco": "A",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": "Equipada com computadores VDI, com maior capacidade de processamento para softwares de engenharia e simulação.",
+          "capacidade": 44,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "B.01",
+          "bloco": "B",
+          "tipo": "Sala de entidade",
+          "descricao": "Formula SAE - Equipe de competição automotiva",
+          "observacao": "Sala destinada aos membros da equipe Formula SAE. Onde anualmente desenvolvem um carro de corrida do zero para competir em eventos nacionais e internacionais com outras instituições.",
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "B.02",
+          "bloco": "B",
+          "tipo": "Sala de entidade",
+          "descricao": "BAJA SAE - Equipe de competição automotiva",
+          "observacao": "Sala destinada aos membros da equipe BAJA SAE. Onde anualmente desenvolvem um veículo off-road para competir em eventos nacionais e internacionais com outras instituições.",
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "B.03",
+          "bloco": "B",
+          "tipo": "Laboratório de mecânica automotiva",
+          "descricao": "Equipado com veículos do tipo buggy, que permitem fácil visualização e acesso aos componentes mecânicos. Ideal para aulas práticas de mecânica automotiva.",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": ["Carros para aulas práticas", "ferramentas automotivas", "equipamentos de diagnóstico automotivo", "dinamômetro"]
+        },
+        {
+          "id": "B.04",
+          "bloco": "B",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "B.05",
+          "bloco": "B",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "C.01",
+          "bloco": "C",
+          "tipo": "Sala de entidade",
+          "descricao": "ECOMAUÁ - Desenvolvimento de veiculos sustentaveis",
+          "observacao": "Sala destinada aos membros da equipe ECOMAUÁ. Onde desenvolvem veículos sustentáveis.",
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "C.02",
+          "bloco": "C",
+          "tipo": "Sala de entidade",
+          "descricao": "AERODESIGN - Entidade de Aeromodelismo",
+          "observacao": "Sala destinada aos membros da equipe AERODESIGN. Onde desenvolvem aeronaves modelistas.",
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "C.03",
+          "bloco": "C",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": "Duas pessoas por computador.",
+          "capacidade": 25,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "C.04",
+          "bloco": "C",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": "Computadores individuais.",
+          "capacidade": 24,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "C.05",
+          "bloco": "C",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": "Computadores individuais.",
+          "capacidade": 24,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "D.01",
+          "bloco": "D",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": "Computadores individuais.",
+          "capacidade": 24,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "D.02",
+          "bloco": "D",
+          "tipo": "Sala de entidade",
+          "descricao": "Mauá E-Sports",
+          "observacao": "Sala destinada aos membros da equipe Mauá E-Sports. Onde desenvolvem atividades relacionadas a esportes eletrônicos.",
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "D.03",
+          "bloco": "D",
+          "tipo": "Sala de entidade",
+          "descricao": "",
+          "observacao": "",
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "D.04",
+          "bloco": "D",
+          "tipo": "Laboratorio de fabricação",
+          "descricao": "FABLAB",
+          "observacao": "Laboratório de fabricação digital aberto à comunidade acadêmica para desenvolvimento de projetos pessoais e multidisciplinares. Contato por e-mail: fablab@maua.br",
+          "capacidade": null,
+          "recursos": ["impressoras 3d", "cortadoras a laser", "equipamentos de prototipagem", "sala de pintura"]
+        },
+        {
+          "id": "E.01",
+          "bloco": "E",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": "Computadores individuais.",
+          "capacidade": 34,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "E.02",
+          "bloco": "E",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": "Computadores individuais.",
+          "capacidade": 30,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "E.03",
+          "bloco": "E",
+          "tipo": "Sala de aula",
+          "descricao": "Sala de design",
+          "observacao": null,
+          "capacidade": 32,
+          "recursos": []
+        },
+        {
+          "id": "E.04",
+          "bloco": "E",
+          "tipo": "Sala de aula",
+          "descricao": "Sala de design",
+          "observacao": null,
+          "capacidade": 44,
+          "recursos": []
+        },
+        {
+          "id": "H.204",
+          "bloco": "H",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 25,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "J.309",
+          "bloco": "J",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 21,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "P.10",
+          "bloco": "P",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 31,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "P.11",
+          "bloco": "P",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 23,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "P.12",
+          "bloco": "P",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 23,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "P.12A",
+          "bloco": "P",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 23,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "P.13",
+          "bloco": "P",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 23,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "P.21",
+          "bloco": "P",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 23,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "P.22",
+          "bloco": "P",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 23,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "P.22A",
+          "bloco": "P",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 23,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "P.23",
+          "bloco": "P",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 23,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "Q.01",
+          "bloco": "Q",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 45,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "Q.04",
+          "bloco": "Q",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 25,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "Q.05",
+          "bloco": "Q",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 17,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "Q.06",
+          "bloco": "Q",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 17,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.201",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.202",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.203",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.205",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.206",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.301",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.302",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.303",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.304",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.305",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.307",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.308",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.309",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.310",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 7,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.401",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 13,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.402",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 13,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.404",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 10,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.501",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 25,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.502",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 25,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "W.503",
+          "bloco": "W",
+          "tipo": "Sala de aula",
+          "descricao": "Laboratório de computadores",
+          "observacao": null,
+          "capacidade": 37,
+          "recursos": ["computadores"]
+        },
+        {
+          "id": "D.02",
+          "bloco": "D",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "D.03",
+          "bloco": "D",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "D.04",
+          "bloco": "D",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "E.03",
+          "bloco": "E",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "E.04",
+          "bloco": "E",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "E.05",
+          "bloco": "E",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "E.06",
+          "bloco": "E",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.01",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.02",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.03",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.04",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.05",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.06",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.07",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.08",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.09",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.10",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.11",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.12",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "F.13",
+          "bloco": "F",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "G.01",
+          "bloco": "G",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "G.02",
+          "bloco": "G",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "G.03",
+          "bloco": "G",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "G.04",
+          "bloco": "G",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "G.05",
+          "bloco": "G",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "G.06",
+          "bloco": "G",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.001",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.002",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.100",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.101",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.102",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.103",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.104",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.105",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.106",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.107",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.108",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.201",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.202",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.203",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.205",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.206",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.207",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.208",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "H.209",
+          "bloco": "H",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.00",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.01",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.02",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.03",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.04",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.05",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.06",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.07",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.08",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.09",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.10",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.11",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.12",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.13",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.14",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.15",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.16",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.17",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.18",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.19",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "I.20",
+          "bloco": "I",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.101",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.102",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.103",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.104",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.105",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.106",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.107",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.108",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.201",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.202",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.203",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.204",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.205",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.206",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.207",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.208",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.209",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.210",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.301",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.302",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.303",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.304",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.305",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.306",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.307",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "J.308",
+          "bloco": "J",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "L.01",
+          "bloco": "L",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "L.02",
+          "bloco": "L",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "L.03",
+          "bloco": "L",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "M.01",
+          "bloco": "M",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "M.02",
+          "bloco": "M",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "M.03",
+          "bloco": "M",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "N.01",
+          "bloco": "N",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "N.02",
+          "bloco": "N",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "N.03",
+          "bloco": "N",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "N.04",
+          "bloco": "N",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "N.05",
+          "bloco": "N",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "P.01",
+          "bloco": "P",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "P.02",
+          "bloco": "P",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "P.03",
+          "bloco": "P",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "P.14",
+          "bloco": "P",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "P.15",
+          "bloco": "P",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "P.24",
+          "bloco": "P",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.02",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.03",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.R00",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.R01",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.R02",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.R03",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.R04",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.R05",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.R06",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.R07",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.R08",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Q.R09",
+          "bloco": "Q",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.001",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.002",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.003",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.004",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.005",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.101",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.102",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.103",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.104",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.105",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.106",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.107",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.108",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.109",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.110",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.202",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.203",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.204",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.205",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.206",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.207",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.208",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.209",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.210",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.211",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.301",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.302",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.303",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.304",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.351",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.352",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.352A",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.353",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.354",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.355",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.401",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.402",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.403",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.404",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "R.405",
+          "bloco": "R",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "Centro de Pesquisas",
+          "bloco": "S",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.01",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.02",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.03",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.04",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.10",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.11",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.12",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.13",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.14",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.15",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.16",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.17",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.18",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.19",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.20",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.21",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.22",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.23",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.24",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.25",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.26",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.27",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.28",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "U.29",
+          "bloco": "U",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "BIB",
+          "bloco": "V",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "W.100",
+          "bloco": "W",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "W.204",
+          "bloco": "W",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "W.306",
+          "bloco": "W",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "W.403",
+          "bloco": "W",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "W.504",
+          "bloco": "W",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "W.505",
+          "bloco": "W",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        },
+        {
+          "id": "W.600",
+          "bloco": "W",
+          "tipo": "",
+          "descricao": "",
+          "observacao": null,
+          "capacidade": null,
+          "recursos": []
+        }
+      ]
+    },
+    {
+      "nome": "São Paulo",
+      "salas": []
+    }
+  ]
+}
