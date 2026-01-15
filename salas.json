@@ -60,9 +60,9 @@
         {
           "id": "B.03",
           "bloco": "B",
-          "tipo": "Laboratório de mecânica automotiva",
-          "descricao": "Equipado com veículos do tipo buggy, que permitem fácil visualização e acesso aos componentes mecânicos. Ideal para aulas práticas de mecânica automotiva.",
-          "observacao": null,
+          "tipo": "Laboratório",
+          "descricao": "Laboratório de mecânica automotiva",
+          "observacao": "Equipado com veículos do tipo buggy, que permitem fácil visualização e acesso aos componentes mecânicos. Ideal para aulas práticas de mecânica automotiva.",
           "capacidade": null,
           "recursos": ["Carros para aulas práticas", "ferramentas automotivas", "equipamentos de diagnóstico automotivo", "dinamômetro"]
         },
@@ -224,8 +224,8 @@
           "bloco": "P",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 31,
+          "observacao": "Duas pessoas por computador.",
+          "capacidade": 30,
           "recursos": ["computadores"]
         },
         {
@@ -233,8 +233,8 @@
           "bloco": "P",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 23,
+          "observacao": "Duas pessoas por computador.",
+          "capacidade": 22,
           "recursos": ["computadores"]
         },
         {
@@ -242,8 +242,8 @@
           "bloco": "P",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 23,
+          "observacao": "Duas pessoas por computador.",
+          "capacidade": 22,
           "recursos": ["computadores"]
         },
         {
@@ -251,8 +251,8 @@
           "bloco": "P",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 23,
+          "observacao": "Duas pessoas por computador.",
+          "capacidade": 22,
           "recursos": ["computadores"]
         },
         {
@@ -260,8 +260,8 @@
           "bloco": "P",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 23,
+          "observacao": "Duas pessoas por computador.",
+          "capacidade": 22,
           "recursos": ["computadores"]
         },
         {
@@ -269,35 +269,26 @@
           "bloco": "P",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 23,
+          "observacao": "Duas pessoas por computador.",
+          "capacidade": 22,
           "recursos": ["computadores"]
         },
         {
           "id": "P.22",
           "bloco": "P",
           "tipo": "Sala de aula",
-          "descricao": "Laboratório de computadores",
+          "descricao": null,
           "observacao": null,
-          "capacidade": 23,
-          "recursos": ["computadores"]
-        },
-        {
-          "id": "P.22A",
-          "bloco": "P",
-          "tipo": "Sala de aula",
-          "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 23,
-          "recursos": ["computadores"]
+          "capacidade": 50,
+          "recursos": []
         },
         {
           "id": "P.23",
           "bloco": "P",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 23,
+          "observacao": "Computadores individuais.",
+          "capacidade": 50,
           "recursos": ["computadores"]
         },
         {
@@ -305,7 +296,7 @@
           "bloco": "Q",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
+          "observacao": "Computadores individuais.",
           "capacidade": 45,
           "recursos": ["computadores"]
         },
@@ -314,8 +305,8 @@
           "bloco": "Q",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 25,
+          "observacao": "Duas pessoas por computador.",
+          "capacidade": 24,
           "recursos": ["computadores"]
         },
         {
@@ -332,8 +323,8 @@
           "bloco": "Q",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 17,
+          "observacao": "Duas pessoas por computador.",
+          "capacidade": 16,
           "recursos": ["computadores"]
         },
         {
@@ -341,8 +332,8 @@
           "bloco": "W",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
+          "observacao": "6 bancadas, cada uma com 1 computador e 5 cadeiras.",
+          "capacidade": 30,
           "recursos": ["computadores"]
         },
         {
@@ -350,8 +341,8 @@
           "bloco": "W",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
+          "observacao": "6 bancadas, cada uma com 1 computador e 5 cadeiras.",
+          "capacidade": 30,
           "recursos": ["computadores"]
         },
         {
@@ -359,8 +350,8 @@
           "bloco": "W",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
+          "observacao": "6 bancadas, cada uma com 1 computador e 5 cadeiras.",
+          "capacidade": 30,
           "recursos": ["computadores"]
         },
         {
@@ -368,8 +359,8 @@
           "bloco": "W",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
+          "observacao": "6 bancadas, cada uma com 1 computador e 5 cadeiras.",
+          "capacidade": 30,
           "recursos": ["computadores"]
         },
         {
@@ -377,90 +368,99 @@
           "bloco": "W",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
+          "observacao": "6 bancadas, cada uma com 1 computador e 5 cadeiras.",
+          "capacidade": 30,
           "recursos": ["computadores"]
         },
         {
           "id": "W.301",
           "bloco": "W",
-          "tipo": "Sala de aula",
-          "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
-          "recursos": ["computadores"]
+          "tipo": "Laboratório",
+          "descricao": "Laboratório de elétrica e eletrônica",
+          "observacao": "6 bancadas, cada uma com 1 computador, 2 monitores e 4 cadeiras.",
+          "capacidade": 24,
+          "recursos": ["computadores", "equipamentos de eletrônica", "kits de circuitos", "osciloscópios"]
         },
         {
           "id": "W.302",
           "bloco": "W",
-          "tipo": "Sala de aula",
-          "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
-          "recursos": ["computadores"]
+          "tipo": "Laboratório",
+          "descricao": "Laboratório de elétrica e eletrônica",
+          "observacao": "6 bancadas, cada uma com 1 computador, 2 monitores e 4 cadeiras.",
+          "capacidade": 24,
+          "recursos": ["computadores", "equipamentos de eletrônica", "kits de circuitos", "osciloscópios"]
         },
         {
           "id": "W.303",
           "bloco": "W",
-          "tipo": "Sala de aula",
-          "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
-          "recursos": ["computadores"]
+          "tipo": "Laboratório",
+          "descricao": "Laboratório de elétrica e eletrônica",
+          "observacao": "6 bancadas, cada uma com 1 computador, 2 monitores e 3 cadeiras.",
+          "capacidade": 18,
+          "recursos": ["computadores", "equipamentos de eletrônica", "kits de circuitos", "osciloscópios"]
         },
         {
           "id": "W.304",
           "bloco": "W",
-          "tipo": "Sala de aula",
-          "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
-          "recursos": ["computadores"]
+          "tipo": "Laboratório",
+          "descricao": "Laboratório de elétrica e eletrônica",
+          "observacao": "6 bancadas, cada uma com 1 computador, 2 monitores e 3 cadeiras.",
+          "capacidade": 18,
+          "recursos": ["computadores", "equipamentos de eletrônica", "kits de circuitos", "osciloscópios"]
         },
         {
           "id": "W.305",
           "bloco": "W",
-          "tipo": "Sala de aula",
-          "descricao": "Laboratório de computadores",
+          "tipo": "Laboratório",
+          "descricao": "Laboratório de elétrica e eletrônica",
+          "observacao": "6 bancadas, cada uma com 1 computador, 2 monitores e 4 cadeiras.",
+          "capacidade": 24,
+          "recursos": ["computadores", "equipamentos de eletrônica", "kits de circuitos", "osciloscópios"]
+        },
+          {
+          "id": "W.306",
+          "bloco": "W",
+          "tipo": "Sala dos técnicos dos laboratórios de eletrônica",
+          "descricao": "Sala destinada aos técnicos responsáveis pela manutenção dos laboratórios do bloco W.300",
           "observacao": null,
-          "capacidade": 7,
-          "recursos": ["computadores"]
+          "capacidade": null,
+          "recursos": []
         },
         {
           "id": "W.307",
           "bloco": "W",
-          "tipo": "Sala de aula",
-          "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
-          "recursos": ["computadores"]
+          "tipo": "Laboratório",
+          "descricao": "Laboratório de elétrica e eletrônica",
+          "observacao": "6 bancadas, cada uma com 1 computador, 2 monitores e 4 cadeiras.",
+          "capacidade": 24,
+          "recursos": ["computadores", "equipamentos de eletrônica", "kits de circuitos", "osciloscópios"]
         },
         {
           "id": "W.308",
           "bloco": "W",
-          "tipo": "Sala de aula",
-          "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
-          "recursos": ["computadores"]
+          "tipo": "Laboratório",
+          "descricao": "Laboratório de elétrica e eletrônica",
+          "observacao": "6 bancadas, cada uma com 1 computador, 2 monitores e 3 cadeiras.",
+          "capacidade": 18,
+          "recursos": ["computadores", "equipamentos de eletrônica", "kits de circuitos", "osciloscópios"]
         },
         {
           "id": "W.309",
           "bloco": "W",
-          "tipo": "Sala de aula",
-          "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
-          "recursos": ["computadores"]
+          "tipo": "Laboratório",
+          "descricao": "Laboratório de elétrica e eletrônica",
+          "observacao": "6 bancadas, cada uma com 1 computador, 2 monitores e 3 cadeiras.",
+          "capacidade": 18,
+          "recursos": ["computadores", "equipamentos de eletrônica", "kits de circuitos", "osciloscópios"]
         },
         {
           "id": "W.310",
           "bloco": "W",
-          "tipo": "Sala de aula",
-          "descricao": "Laboratório de computadores",
-          "observacao": null,
-          "capacidade": 7,
-          "recursos": ["computadores"]
+          "tipo": "Laboratório",
+          "descricao": "Laboratório de elétrica e eletrônica",
+          "observacao": "6 bancadas, cada uma com 1 computador, 2 monitores e 4 cadeiras.",
+          "capacidade": 24,
+          "recursos": ["computadores", "equipamentos de eletrônica", "kits de circuitos", "osciloscópios"]
         },
         {
           "id": "W.401",
