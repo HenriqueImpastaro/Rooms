@@ -107,7 +107,7 @@
           "bloco": "C",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": "Duas pessoas por computador.",
+          "observacao": "Duas pessoas por computador. Equipada com computadores VDI, com maior capacidade de processamento para softwares de engenharia e simulação.",
           "capacidade": 25,
           "recursos": ["computadores"]
         },
@@ -116,7 +116,7 @@
           "bloco": "C",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": "Computadores individuais.",
+          "observacao": "Computadores individuais. Equipada com computadores VDI, com maior capacidade de processamento para softwares de engenharia e simulação.",
           "capacidade": 24,
           "recursos": ["computadores"]
         },
@@ -125,7 +125,7 @@
           "bloco": "C",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": "Computadores individuais.",
+          "observacao": "Computadores individuais. Equipada com computadores VDI, com maior capacidade de processamento para softwares de engenharia e simulação.",
           "capacidade": 24,
           "recursos": ["computadores"]
         },
@@ -278,7 +278,7 @@
           "bloco": "P",
           "tipo": "Sala de aula",
           "descricao": null,
-          "observacao": null,
+          "observacao": "Com mesas para uso de notebooks ou cadernos convencionais.",
           "capacidade": 50,
           "recursos": []
         },
@@ -314,7 +314,7 @@
           "bloco": "Q",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": null,
+          "observacao": "Duas pessoas por computador. Equipada com computadores VDI, com maior capacidade de processamento para softwares de engenharia e simulação.",
           "capacidade": 17,
           "recursos": ["computadores"]
         },
@@ -323,7 +323,7 @@
           "bloco": "Q",
           "tipo": "Sala de aula",
           "descricao": "Laboratório de computadores",
-          "observacao": "Duas pessoas por computador.",
+          "observacao": "Duas pessoas por computador. Equipada com computadores VDI, com maior capacidade de processamento para softwares de engenharia e simulação.",
           "capacidade": 16,
           "recursos": ["computadores"]
         },
@@ -2270,3 +2270,4 @@
     }
   ]
 }
+
